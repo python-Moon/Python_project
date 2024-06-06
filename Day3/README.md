@@ -29,7 +29,7 @@
         - (이진분류 같은 경우) 결과가 임계값을 넘으면 1, 아니면 0 출력
 3. **다층 퍼셉트론**
     
-    
+    ![Untitled (3)](https://github.com/python-Moon/Python_project/assets/162897281/922d75a4-d29a-4acd-9dd3-c96d94b4942f)
     
     - 개요
         - 여러개의 퍼셉트론을 조합하여 비선형 문제를 해결
