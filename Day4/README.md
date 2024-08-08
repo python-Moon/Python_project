@@ -15,11 +15,13 @@
 
 ## CNN(Convolutional Neural Network)
 
+![Untitled (4)](https://github.com/user-attachments/assets/e049bd1d-922d-4040-9858-a08ff3976aaa)
 
 
 1. **합성곱층 (Convolutional Layer)**: 이미지의 특징을 추출
-    
-    
+
+![Untitled (5)](https://github.com/user-attachments/assets/a13eaafa-7f2c-413f-8751-a8d68bab24a5)
+
     
 2. **풀링층 (Pooling Layer)**: 특징 맵의 크기를 줄이고 중요한 정보를 강조
     - 맥스 풀링 (Max Pooling): 특정 영역에서 가장 큰 값을 추출하여 특징을 강조
