@@ -10,4 +10,6 @@
 3) Day2 : 데이터 분석중 그래프 구현에 사용되는 matplotlib패키지 사용법 학습
 4) Day3 : 데이터 전처리에 사용되는 scikit-learn패키지 사용법 학습+matplotlib패키지로 확인
    - scikit-learn패키지를 이용한 기본적인 인공신경망 구현
-6) Day4 : 
+5) Day4 : 이미지로 구성된 데이터 분석을 위해 CNN기법 탐구
+   - openCV를 통한 이미지 처리와 tenserflow 패키지를 통한 기본 인공신경망 구현
+6) Day5 : 
